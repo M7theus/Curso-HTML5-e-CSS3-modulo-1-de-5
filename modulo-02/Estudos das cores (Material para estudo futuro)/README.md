@@ -10,3 +10,5 @@
 Foi apenas de depois de duzentos anos que veio uma das contribuições mais importantes na área da Psicologia das Cores, com a socióloga alemã Eva Heller.
 
 Seus estudos são atualmente considerados essenciais para pessoas que trabalham profissionalmente com cores, seja em Artes Visuais ou mesmo terapias baseadas em cores.</p>
+
+<h2>Conhecendo um pouco sobre cada cor<h2>
