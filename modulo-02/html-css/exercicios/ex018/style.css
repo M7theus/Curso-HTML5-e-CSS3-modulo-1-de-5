@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+h1{
+    font-family: 'Permanent Marker', sans-serif;
+    font-size: 3em;
+    color: lightgreen;
+    text-align: center;
+}
+p{
+    font-family: 'Ubuntu';
+    text-align: center;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 1em;
+}
+
+h2{
+    font-family: 'Permanent Marker', sans-serif;
+    font-size: 2em;
+    color: lightpink;
+}
