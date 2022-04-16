@@ -1,20 +1,48 @@
 @charset "UTF-8";
 
 body{
-    background-color: lightgreen;
+    background-image: linear-gradient(to right, #C1FBA4, #7BF1A8);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h1{
-    color: rgb(70, 110, 60);
+    color: #006C67;
 }
 
 h1#principal{
     text-align: center;
-    background-color: lightcoral;
+    background-color: #006C67;
+    text-shadow: 1px 1px 1px #028a8367;
     color: white;
 }
 
 h2{
     color: rgb(75, 124, 75);
+}
+
+.teste{
+    color: darkred;
+    font-weight: bold;
+}
+
+.basico{
+    color:rgb(21, 141, 10);
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.intermediario{
+    color:#E6AF2E;
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.avancado{
+    color:#EB5E55;
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.efeito{
+    background-color: rgba(240, 128, 128, 0.315);
 }
