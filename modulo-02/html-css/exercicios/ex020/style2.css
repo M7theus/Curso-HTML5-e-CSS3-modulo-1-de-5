@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+a:active{
+    color: yellow;
+}
+
+a::after{
+    content: ' [teste] ';
+    font-weight: normal;
+    color: lightgreen;
+    text-decoration: none;
+}
