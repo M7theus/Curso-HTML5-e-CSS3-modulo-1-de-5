@@ -13,7 +13,7 @@ header{
     margin:center;
 }
 
-header > h2{
+header > h1{
     color:white;
     text-align: center;
     font-size: 30px;
@@ -53,4 +53,30 @@ header > nav > a{
 header > nav > a:hover{
     text-decoration: overline;
     color:rgba(4, 172, 40, 0.726);
+}
+
+main{
+    background-color: white;
+    margin: 0px 40px 0px 40px;
+    margin: center;
+}
+
+main > section > h3{
+    margin: 0px;
+    font-family: androide;
+    font-size: 23px;
+    font-weight: 500;
+    font-style: normal;
+    color: #1A5C38;
+    text-shadow: #0c2b1a41;
+    padding: 10px 10px 0px 20px;
+}
+
+main > section > p{
+    text-align: justify;
+    text-indent: 20px;
+    padding: 15px;
+    margin:0px;
+    font-size: 17px;
+    font-weight: 500;
 }
