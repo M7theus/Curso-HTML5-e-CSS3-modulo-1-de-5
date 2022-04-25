@@ -4,7 +4,7 @@
 }
 
 body{
-    margin: 0px;
+    margin:0px;
     background-color: #45f594;
 }
 
@@ -57,7 +57,7 @@ header > nav > a:hover{
 
 main{
     background-color: white;
-    margin: 0px 40px 0px 40px;
+    margin: 0px 50px 0px 50px;
     margin: center;
 }
 
@@ -72,11 +72,25 @@ main > section > h3{
     padding: 10px 10px 0px 20px;
 }
 
-main > section > p{
+.formatacao{
     text-align: justify;
     text-indent: 20px;
     padding: 15px;
     margin:0px;
     font-size: 17px;
     font-weight: 500;
+}
+
+main > section > article > h3{
+    font-family: androide;
+    color: #1A5C38;
+    text-shadow: #0c2b1a41;
+    font-size: 20px;
+    padding: 10px 10px 0px 20px;
+    margin: 0px;
+    font-weight: 500;
+}
+
+picture{
+    padding: 20px;
 }
