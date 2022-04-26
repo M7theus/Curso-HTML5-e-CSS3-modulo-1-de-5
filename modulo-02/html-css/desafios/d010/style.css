@@ -57,7 +57,7 @@ header > nav > a:hover{
 
 main{
     background-color: white;
-    margin: 0px 50px 0px 50px;
+    margin: 0px 20px 0px 20px;
     margin: center;
 }
 
@@ -69,7 +69,7 @@ main > section > h3{
     font-style: normal;
     color: #1A5C38;
     text-shadow: #0c2b1a41;
-    padding: 10px 10px 0px 20px;
+    padding: 20px 10px 0px 20px;
 }
 
 .formatacao{
@@ -93,4 +93,33 @@ main > section > article > h3{
 
 picture{
     padding: 20px;
+}
+
+.foto{
+    display: block;
+    margin:0px;
+    margin:auto;
+}
+
+#fundo{
+    background-color: #1A5C38;
+}
+
+#video{
+    display: block;
+    margin: 0px auto;
+}
+
+#grade{
+    margin: 0px;
+    padding: 10px;
+
+}
+
+#titulo{
+    background-color: #3BD17F;  
+    color: white;
+    font-size: 17px;
+    padding: 2px 2px 2px 2px;
+    margin: 0px;
 }
