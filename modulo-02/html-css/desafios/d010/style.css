@@ -120,6 +120,23 @@ picture{
     background-color: #3BD17F;  
     color: white;
     font-size: 17px;
-    padding: 2px 2px 2px 2px;
+    padding: 8px;
     margin: 0px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#tabela{
+    background-color: #7cf5b2;
+    margin: 0px;
+    border-radius: 0px 0px 10px 10px;
+    padding: 10px;
+}
+
+.formatacao2{
+    margin: 0px;
+}
+
+#lista{
+    margin: 0px;
+    padding: 10px 30px;
 }
