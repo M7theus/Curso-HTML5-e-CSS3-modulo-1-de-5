@@ -1,0 +1,25 @@
+body{
+    background-image: url('/modulo-03/html-css/exercicios/ex022/imagens/wallpaper001.jpg');
+}
+
+
+.quadrado{
+    background-color: lightgray;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+
+#q1{
+    background-color: lightblue;
+}
+
+#q2{
+    background-image: linear-gradient(to top, red,rgb(8, 180, 8));
+}
+
+#q3{
+    background-image: url('/modulo-03/html-css/exercicios/ex022/imagens/pattern003.png');
+}
