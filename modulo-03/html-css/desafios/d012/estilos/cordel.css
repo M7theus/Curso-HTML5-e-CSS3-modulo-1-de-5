@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+
+:root{
+    --fonte: Verdana, Geneva, Tahoma, sans-serif
+}
+
+header{
+    background-color: black;
+}
+
+header > h1{
+    color: white;
+    font-family: var(--fonte);
+}
+
+header > p{
+    color: white;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+}
