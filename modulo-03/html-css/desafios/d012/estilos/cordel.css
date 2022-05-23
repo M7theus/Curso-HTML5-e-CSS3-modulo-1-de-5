@@ -2,26 +2,62 @@
 
 *{
     margin: 0px;
+    padding: 0px;
 }
 
-:root{
-    --fonte: Verdana, Geneva, Tahoma, sans-serif
+html, body{
+    min-height: 100vh;
+    background-color: darkgray;
 }
 
 header{
     background-color: black;
-}
-
-header > h1{
     color: white;
-    font-family: var(--fonte);
+    text-align: center;
 }
 
-header > p{
-    color: white;
+header h1{
+    padding-top: 50px;
+    font-variant: small-caps;
+}
+header p{
+    padding-bottom: 50px;
 }
 
-header a{
+ header a, footer a{
     color: white;
     text-decoration: none;
+    font-weight: bolder;
+}
+
+header a:hover, footer a:hover{
+    text-decoration: underline;
+}
+
+section{
+    line-height: 2em;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 30px;
+}
+
+.normal{
+    background-color: white;
+}
+
+.imagem{
+    background-color: rgb(73, 72, 72);
+    color: white;
+}
+
+.imagem > p{
+    width: 400px;
+    background-color: gray;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
